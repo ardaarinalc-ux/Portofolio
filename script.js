@@ -157,7 +157,7 @@ const DATA_KANAL = [
   { nama: "WhatsApp", handle: "+62 823-3185-8872", url: "https://wa.me/6282331858872", logoImg: "https://cdn.simpleicons.org/whatsapp/25D366", kelas: "wa", testId: "contact-channel-whatsapp" },
   { nama: "Email", handle: "aardacuyy@gmail.com", url: "mailto:aardacuyy@gmail.com", logoImg:"icons/gmail.svg", kelas: "email", testId: "contact-channel-email" },
   { nama: "LinkedIn", handle: "linkedin.com/in/ardaarinalc", url: "https://linkedin.com/in/ardaarinalc", logoImg:"icons/linkedin.svg", kelas: "linkedin", testId: "contact-channel-linkedin" },
-  { nama: "GitHub", handle: "github.com/ardaarinalc", url: "https://github.com/ardaarinalc", logoImg: "https://cdn.simpleicons.org/github/ffffff", kelas: "github", testId: "contact-channel-github" },
+  { nama: "GitHub", handle: "github.com/ardaarinalc", url: "https://github.com/ardaarinalc-ux", logoImg: "https://cdn.simpleicons.org/github/ffffff", kelas: "github", testId: "contact-channel-github" },
 ];
 
 /* ============================================================
