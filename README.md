@@ -1,4 +1,4 @@
-![SafeRide](foto/website por.png)
+![SafeRide](foto/website-portofolio.png)
 
 # Portofolio
 web portofolio about Arda Arinal Chusna/
